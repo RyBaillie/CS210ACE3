@@ -1,0 +1,15 @@
+Functions
+
+//Opcode functions
+
+void HLT()
+LDR()
+STO()
+SUB()
+ADD()
+INP()
+OUT()
+SKP()
+JMP()
+
+//General functions
